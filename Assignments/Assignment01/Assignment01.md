@@ -1,6 +1,6 @@
 # Assignment 01: Git, Gitea, GitHub, Git LFS, and GitHub Pages
 
-**Student Name:** Sana Noor Bhatti  
+**Name:** Sana Noor Bhatti  
 **Registration Number:** FA24B1-SE-022  
 **Section:** B  
 **Course:** Cloud Computing  
