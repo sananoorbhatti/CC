@@ -2,6 +2,7 @@
 
 **Name:** Sana Noor Bhatti  
 **Registration Number:** FA24B1-SE-022  
+**Section:** B
 **Course:** Cloud Computing  
 **Deadline:** 10 October 2026
 
